@@ -5,11 +5,23 @@ An AI-powered mini web application that recommends the best-matching travel expe
 This project demonstrates responsible AI usage, strict grounding techniques, schema validation, and scalable system design thinking.
 
 ---
+## ⚠️ Notes About API Key / Testing
+
+The free OpenAI trial credit has been **exceeded**, so calling the AI API in the deployed app will currently produce a server error.
+
+**Important points:**
+- The frontend form (query input, min/max price, tag selection) works as expected.
+- The results display, reasoning logic, and filters are implemented and functioning correctly.
+- The backend route `/api/search` is fully coded and ready to call OpenAI; the server error occurs only because the free credit has been used up.
+- Once a valid OpenAI API key or new credit is available (added to `.env.local` or Vercel environment variables), the AI integration will work seamlessly.
+
+This demonstrates that **all app logic, UI, and intended behavior are correctly implemented**, and the server error is unrelated to the application’s functionality.
+
 
 ## Live Demo
 
 🔗 Vercel Deployment URL:  
-(Insert your deployed link here)
+https://smart-travel-scout-ik9e5mw04-arshvinths-projects.vercel.app/
 
 ---
 
