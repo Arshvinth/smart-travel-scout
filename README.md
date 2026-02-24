@@ -21,7 +21,7 @@ This demonstrates that **all app logic, UI, and intended behavior are correctly 
 ## Live Demo
 
 🔗 Vercel Deployment URL:  
-https://smart-travel-scout-ik9e5mw04-arshvinths-projects.vercel.app/
+https://smart-travel-scout-ik9e5mw04-arshvinths-projects.vercel.app
 
 ---
 
