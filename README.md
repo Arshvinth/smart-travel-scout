@@ -1,11 +1,11 @@
-# Smart Travel Scout 🌍
+# Smart Travel Scout 
 
 An AI-powered mini web application that recommends the best-matching travel experiences from a fixed inventory using grounded LLM responses.
 
 This project demonstrates responsible AI usage, strict grounding techniques, schema validation, and scalable system design thinking.
 
 ---
-## ⚠️ Notes About API Key / Testing
+## Notes About API Key / Testing
 
 The free OpenAI trial credit has been **exceeded**, so calling the AI API in the deployed app will currently produce a server error.
 
