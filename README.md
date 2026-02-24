@@ -102,7 +102,7 @@ Initially, the model occasionally:
 
 ### How I Debugged It
 
-- Logged the raw AI response before parsing.
+- Console Logged the raw AI response before parsing.
 - Enforced `temperature: 0` for consistency.
 - Strengthened the system prompt with strict return rules.
 - Added Zod schema validation to reject malformed responses.
